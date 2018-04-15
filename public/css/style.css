@@ -97,7 +97,7 @@ blockquote {
 /*-------------------------------------------------*/
 body > header {
     width: 100%;
-    background: #fff;
+    background: #444;
 }
 
 body > header .inner-header {
@@ -108,7 +108,7 @@ body > header .inner-header {
 
 #top-menu {
     width: 100%;
-    background: #fc7100;
+    background: #333;
 }
 
 #top-menu > ul {
@@ -137,7 +137,7 @@ body > header .inner-header {
 /*-------------------------------------------------*/
 .container {
     max-width: 990px;
-    background: #fff;
+    background: #58585896;
     margin-bottom: 50px;
 }
 .fix-container {
@@ -372,7 +372,7 @@ h4.post-title {
     color: #fff;
     margin: 0px;
     padding: 9px 14px 8px 42px;
-    background: #fc7100 url(../images/cat-icon.png) no-repeat 5px center;
+    background: #22752c87 url(../images/cat-icon.png) no-repeat 5px center;
 }
 
 .cat-title a {
@@ -399,7 +399,7 @@ h4.post-title {
     font-weight: bold;
     line-height: 20px;
     margin: 0 0 8px 0;
-    color: #535353;
+    color: #fff;
 }
 
 .post-container .post-content {
@@ -754,7 +754,7 @@ footer .widget-title {
 }
 
 .tabs-widget > div h3 a {
-    color: #fc7100;
+    color: #4f544c;
     display: block;
     font-size: 13px;
 }
